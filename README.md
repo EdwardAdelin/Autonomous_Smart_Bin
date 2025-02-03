@@ -2,7 +2,7 @@
 A smart bin system made for people who need to monitorise the bin status at any time. Suitable for smart houses, HOA or even  businesses.
 
 # Instructions
-1. Flash the code on you PICO W micro-controller.
+1. Flash the code on you PICO W micro-controller. (you can use noHTTP requests code, or the code that allows HTTP requests via PICO, they are 2 similar programs, but one of them allows you to use GET requests).
 2. Build your smart bin following the diagram.
 3. Ensure WI-FI connection ( write updated network name and password in micropython code )
 4. Use Thony IDE ( or any other IDE ) to run the code on PICO W.
